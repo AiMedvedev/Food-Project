@@ -2,6 +2,10 @@
 
 Интенсив по созданию сайта по доставке еды.
 
+## Запуск
+
+https://food-project-seven.vercel.app/
+
 ## Использованы технологии
 
 HTML, CSS, JavaScript.
